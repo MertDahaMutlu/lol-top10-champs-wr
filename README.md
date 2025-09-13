@@ -1,17 +1,3 @@
-# Repository name
-
-**lol-top10-champs-wr**
-
-
-# Short description
-
-Fetches a player's recent matches, calculates their top 10 most-played champions and corresponding win rates, and displays ranked entries when available. Designed as a single-file, GitHub-ready Python utility.
-
-
----
-
-# Detailed README
-
 ## lol-top10-champs-wr
 
 **Short description**
